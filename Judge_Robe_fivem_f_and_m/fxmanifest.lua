@@ -2,8 +2,8 @@
 -- pack made by jim-g
 -- https://discord.gg/3a647ze5rn
 -- 
--- Disclaimer: I did not make the male judge robe. I can't remember where it's from, but it was a free release. 
--- I just modified the female version a bit in Blender to fit a female body better.
+-- [ Disclaimer ] I did not make the male judge robe. I can't remember where it's from, but it was a free release. 
+-- I just modified the male version to fit female a bit in Blender to fit a female body better.
 --
 fx_version 'cerulean'
 game 'gta5'
