@@ -2,9 +2,8 @@
 # https://discord.gg/3a647ze5rn
 FiveM-ready female and male add-ons, so at the end of clothing numbers.
 
-[ Disclaimer ] 
-I did not make the male judge robe. I can't remember where it's from, but it was a free release. 
-I just modified the female version a bit in Blender to fit a female body better.
+[ Disclaimer ] I did not make the male judge robe. I can't remember where it's from, but it was a free release. 
+I just modified the male version to fit female a bit in Blender to fit a female body better.
 
 The only reason I've done this is because some people are selling the same one that was given free [only male version]. I think it's in AP-Courts Discord somewhere.
 
