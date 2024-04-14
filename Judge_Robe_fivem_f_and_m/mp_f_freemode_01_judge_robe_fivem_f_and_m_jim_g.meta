@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShopPedApparel>
+    <pedName>mp_f_freemode_01</pedName>
+    <dlcName>judge_robe_fivem_f_and_m_jim_g</dlcName>
+    <fullDlcName>mp_f_freemode_01_judge_robe_fivem_f_and_m_jim_g</fullDlcName>
+    <eCharacter>SCR_CHAR_MULTIPLAYER_F</eCharacter>
+    <creatureMetaData>mp_creaturemetadata_f_judge_robe_fivem_f_and_m_jim_g</creatureMetaData>
+    <pedOutfits>
+    </pedOutfits>
+    <pedComponents>
+    </pedComponents>
+    <pedProps>
+    </pedProps>
+</ShopPedApparel>
