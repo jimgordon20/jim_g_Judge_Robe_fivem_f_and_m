@@ -2,7 +2,8 @@
 # https://discord.gg/3a647ze5rn
 FiveM-ready female and male add-ons, so at the end of clothing numbers.
 
-[ Disclaimer ] I did not make the male judge robe. original creater was @Buckeye923 it was a free release. 
+[ Disclaimer ] I did not make the male judge robe. original creater was @Buckeye923 He gave me permission to release the pack
+it was a free release. 
 I just modified the male version to fit female a bit better in Blender.
 
 So I just made a female and male version and added it to a clothing pack for free.
