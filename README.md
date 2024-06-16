@@ -1,3 +1,6 @@
+## [[ There is an issue with the female version. I will be working on it soon. I just have some other things I need to do before going back to clothing again, as I haven't really done any clothing in a long time. ]] ##
+
+
 # jim_g_Judge_Robe_fivem_f_and_m
 # https://discord.gg/3a647ze5rn
 FiveM-ready female and male add-ons, so at the end of clothing numbers.
