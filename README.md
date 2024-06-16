@@ -1,15 +1,15 @@
-## [[ There is an issue with the female version. I will be working on it soon. I just have some other things I need to do before going back to clothing again, as I haven't really done any clothing in a long time. ]] ##
-
-
 # jim_g_Judge_Robe_fivem_f_and_m
 # https://discord.gg/3a647ze5rn
 FiveM-ready female and male add-ons, so at the end of clothing numbers.
 
-[ Disclaimer ] I did not make the male judge robe. original creater was @Buckeye923 He gave me permission to release the pack
-it was a free release. 
+[ Disclaimer ] I did not make the male judge robe. original creater was @Buckeye923 He gave me permission to release the pack it was a free release. 
+
 I just modified the male version to fit female a bit better in Blender.
 
 So I just made a female and male version and added it to a clothing pack for free.
+
+Additional fixes were done by [grzybeek](https://github.com/grzybeek) to add LODs and to fix issues with the female version not moving correctly. 
+
 
 ![f_f](https://github.com/jimgordon20/jim_g_Judge_Robe_fivem_f_and_m/assets/110393030/14a6ac89-b99c-445f-8e11-4705d9ad4c86)
 ![f_b](https://github.com/jimgordon20/jim_g_Judge_Robe_fivem_f_and_m/assets/110393030/b8b60936-1520-4f0d-9cf1-d4d7cc0c7c27)
