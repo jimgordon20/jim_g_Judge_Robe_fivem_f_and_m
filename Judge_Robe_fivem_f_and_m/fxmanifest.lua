@@ -4,6 +4,7 @@
 -- He gave me permission to release the pack.
 -- [ Disclaimer ] I did not make the male judge robe. original creater was @Buckeye923 
 -- it was a free release. I just modified the male version to fit female a bit better in Blender.
+-- Additional fixes were done by grzybeek [ https://github.com/grzybeek ] to add LODs and to fix issues with the female version not moving correctly
 --
 fx_version 'cerulean'
 game 'gta5'
